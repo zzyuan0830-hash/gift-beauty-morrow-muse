@@ -1,6 +1,6 @@
 # 礼品美妆网站 · Morrow & Muse
 
-目标仓库：`zzyuan0830-hash/gift-beauty-morrow-muse`，私有。
+GitHub 仓库：`zzyuan0830-hash/gift-beauty-morrow-muse`。用户已明确选择公开仓库。
 
 ## 内容与版本
 - `v5.0.0`：与核验过的 V5 源码 ZIP 逐文件一致的稳定代码提交；不移动或覆盖该标签。
