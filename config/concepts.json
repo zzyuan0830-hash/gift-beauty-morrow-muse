@@ -1,0 +1,322 @@
+[
+  {
+    "id": "the-slow-sunday",
+    "name": "The Slow Sunday",
+    "category": "Beauty gift sets",
+    "price": 78,
+    "color": "#b9a1a0",
+    "type": "set",
+    "tag": "A moment to unwind",
+    "description": "A considered trio of a bath soak concept, a body cream concept and a little candle. An invitation to leave the afternoon unplanned.",
+    "asset": "gift-open",
+    "occasion": "For a well-earned pause",
+    "mood": "Unhurried · soft · comforting",
+    "story": "For the one who is always looking after everyone else. Three little rituals, gathered together for an afternoon with nothing on the calendar.",
+    "contents": [
+      [
+        "A rosewater bath soak",
+        "A tall jar of imagined rose-toned bath salts."
+      ],
+      [
+        "A cloud body cream",
+        "A cream jar for the everyday care ritual."
+      ],
+      [
+        "A quiet little candle",
+        "The final note in a slower Sunday."
+      ]
+    ],
+    "pair": "rosewater-soak",
+    "conceptCode": "MM-01",
+    "target": {
+      "size": "Bath soak 250 g + body cream 200 mL + candle 90 g",
+      "pack": "Cream presentation box; berry ribbon; fitted recyclable-paper insert. Compare lift-off and hinged stock box structures.",
+      "note": "The bath soak, cream and candle must be quoted as three separate components. Test the complete parcel for leakage, glass breakage and heat exposure."
+    },
+    "presentation": "A cream presentation box, a deep berry ribbon and a considered place for each of the three rituals. A soft, understated opening moment."
+  },
+  {
+    "id": "the-little-thank-you",
+    "name": "The Little Thank You",
+    "category": "Beauty gift sets",
+    "price": 48,
+    "color": "#c8ac82",
+    "type": "set",
+    "tag": "Small gesture, lovely feeling",
+    "description": "A hand cream and fragrance miniature concept, paired in a keepsake-style box. For the person who made your day a little easier.",
+    "asset": "little-thank-you",
+    "occasion": "For the everyday difference-makers",
+    "mood": "Small · personal · heartfelt",
+    "story": "For lending an ear. For opening their home. For being there. A modest gesture with room for a very specific thank you.",
+    "contents": [
+      [
+        "A hand cream concept",
+        "An ivory tube, made to feel like an everyday companion."
+      ],
+      [
+        "A fragrance miniature",
+        "A little bottle for a new scent story."
+      ]
+    ],
+    "pair": "cloud-body-cream",
+    "conceptCode": "MM-02",
+    "target": {
+      "size": "Hand cream 50 mL + fragrance miniature 10 mL",
+      "pack": "Compact cream box; tube and travel-size fragrance in separate fitted compartments.",
+      "note": "Confirm fragrance transport eligibility separately. Prioritize existing tube and vial tooling; no gift-note fulfillment assumed."
+    },
+    "presentation": "A small cream box holds two little gestures together. A berry accent and simple paper details give this thank-you its finishing touch."
+  },
+  {
+    "id": "the-evening-edit",
+    "name": "The Evening Edit",
+    "category": "Beauty gift sets",
+    "price": 96,
+    "color": "#75454e",
+    "type": "set",
+    "tag": "For their evening ritual",
+    "description": "An imagined collection of body oil, a candle and a fragrance miniature, brought together for a quiet evening.",
+    "asset": "evening-edit",
+    "occasion": "For their evening chapter",
+    "mood": "Warm · intimate · considered",
+    "story": "When the day becomes an evening. A trio imagined around amber glass, soft light and the pleasure of having nowhere else to be.",
+    "contents": [
+      [
+        "A golden body oil",
+        "An amber dropper bottle for a care ritual."
+      ],
+      [
+        "An evening candle",
+        "A small cream vessel for the bedside scene."
+      ],
+      [
+        "A fragrance miniature",
+        "A final little accent, tucked inside."
+      ]
+    ],
+    "pair": "amber-hour",
+    "conceptCode": "MM-03",
+    "target": {
+      "size": "Body oil 100 mL + candle 90 g + fragrance miniature 10 mL",
+      "pack": "Berry presentation box with dividers suitable for oil bottle, candle and miniature.",
+      "note": "Confirm the correct oil closure and fragrance format before sampling. Quote component compatibility and liquid-safe transport packaging."
+    },
+    "presentation": "A deep berry box brings warm amber tones into one evening-inspired arrangement, with a separate place for each imagined ritual."
+  },
+  {
+    "id": "fig-and-paper",
+    "name": "Fig & Paper",
+    "category": "Fragrance",
+    "price": 54,
+    "color": "#788471",
+    "type": "bottle",
+    "tag": "Green, soft, quietly curious",
+    "description": "A fragrance concept inspired by an open notebook beside a fig tree. The scent direction is an editorial idea, not a verified formula.",
+    "asset": "fig-editorial",
+    "occasion": "For the quietly curious",
+    "mood": "Green · woody · softly atmospheric",
+    "story": "An open notebook. A fig tree at the window. A room that is entirely your own. Fig & Paper imagines a green, quietly woody fragrance with a softer side.",
+    "contents": [
+      [
+        "The first impression",
+        "A green fig-leaf direction."
+      ],
+      [
+        "The heart of the idea",
+        "The rounded softness of ripe fig."
+      ],
+      [
+        "The lingering thought",
+        "Dry paper and pale wood."
+      ]
+    ],
+    "pair": "cloud-body-cream",
+    "conceptCode": "MM-04",
+    "target": {
+      "size": "50 mL fragrance direction",
+      "pack": "Olive-toned rectangular glass bottle, dark cap, small cream label; explore existing bottle molds.",
+      "note": "Compare glass coating, cap fit and atomizer compatibility. The green fig / pale wood direction is a creative brief, not a finished formula."
+    },
+    "presentation": "Olive-toned glass, a dark cap and a quiet cream label. The design pairs the feeling of green fig with the simplicity of an open notebook."
+  },
+  {
+    "id": "amber-hour",
+    "name": "Amber Hour",
+    "category": "Fragrance",
+    "price": 62,
+    "color": "#b77840",
+    "type": "bottle",
+    "tag": "The golden part of the day",
+    "description": "A warm fragrance concept inspired by late light on amber glass. An imagined scent story for the moments between plans.",
+    "asset": "amber-hour",
+    "occasion": "For the warmest person you know",
+    "mood": "Amber · golden · enveloping",
+    "story": "The last light across a room, held for a little longer. An imagined warm fragrance for someone who makes every place feel welcoming.",
+    "contents": [
+      [
+        "The first impression",
+        "A bright, golden opening."
+      ],
+      [
+        "The heart of the idea",
+        "A warm amber direction."
+      ],
+      [
+        "The lingering thought",
+        "Soft woods and evening light."
+      ]
+    ],
+    "pair": "golden-body-oil",
+    "conceptCode": "MM-05",
+    "target": {
+      "size": "50 mL fragrance direction",
+      "pack": "Amber-toned glass and a restrained cream label; warm metal or dark closure to be sampled.",
+      "note": "Request bottle/closure swatches and fragrance-development options. No finalized formula, concentration or longevity claim."
+    },
+    "presentation": "Warm amber glass and a simple label reflect the golden-hour mood. A restrained silhouette keeps the focus on the warmth of the color."
+  },
+  {
+    "id": "petal-study",
+    "name": "Petal Study",
+    "category": "Fragrance",
+    "price": 58,
+    "color": "#b98591",
+    "type": "bottle",
+    "tag": "A softer kind of statement",
+    "description": "An airy floral fragrance concept that imagines a vase of loose garden stems. Artwork and description are for demonstration.",
+    "asset": "petal-study",
+    "occasion": "For a fresh beginning",
+    "mood": "Floral · airy · delicate",
+    "story": "Loose stems in a favorite vase. The window open just a little. A floral fragrance idea for beginnings that deserve a softer sort of celebration.",
+    "contents": [
+      [
+        "The first impression",
+        "An airy garden direction."
+      ],
+      [
+        "The heart of the idea",
+        "Soft rose petals."
+      ],
+      [
+        "The lingering thought",
+        "A clean, delicate finish."
+      ]
+    ],
+    "pair": "rosewater-soak",
+    "conceptCode": "MM-06",
+    "target": {
+      "size": "50 mL fragrance direction",
+      "pack": "Soft rose-toned bottle study, pale label and understated closure.",
+      "note": "Confirm repeatable glass color and print finish. Floral scent direction is subject to perfumer development and evaluation."
+    },
+    "presentation": "Soft rose-toned glass and a pale label give this fragrance concept a gentle, light-filled character."
+  },
+  {
+    "id": "cloud-body-cream",
+    "name": "Cloud Body Cream",
+    "category": "Body care",
+    "price": 32,
+    "color": "#b9aea0",
+    "type": "jar",
+    "tag": "A little everyday softness",
+    "description": "A body cream concept in a generous cream-colored jar. Designed as a visual study of a simple daily care ritual; no efficacy claims.",
+    "asset": "cloud-body-cream",
+    "occasion": "For the little daily rituals",
+    "mood": "Quiet · simple · soft",
+    "story": "A small pause on the bathroom shelf. Cloud imagines an everyday body-care essential in a cream jar with a deep berry lid.",
+    "contents": [
+      [
+        "The object",
+        "A rounded cream jar and berry lid."
+      ],
+      [
+        "The ritual idea",
+        "An unhurried moment after bathing."
+      ],
+      [
+        "The gift pairing",
+        "A fragrance to make the gesture personal."
+      ]
+    ],
+    "pair": "fig-and-paper",
+    "conceptCode": "MM-07",
+    "target": {
+      "size": "200 mL jar direction",
+      "pack": "Cream jar, deep berry screw lid, understated front label; stock jar first.",
+      "note": "Ask for compatibility, seal/liner and transit checks. Formula, instructions and any claims require supplier documentation and merchant approval."
+    },
+    "presentation": "A rounded cream jar and a deep berry lid create a soft contrast. The concept is designed to sit quietly among everyday rituals."
+  },
+  {
+    "id": "rosewater-soak",
+    "name": "Rosewater Soak",
+    "category": "Body care",
+    "price": 28,
+    "color": "#bc8e85",
+    "type": "jar",
+    "tag": "Make room for a pause",
+    "description": "A bath soak packaging concept inspired by rose-colored water and slow evenings. Ingredients and usage directions are not finalized.",
+    "asset": "rosewater-soak",
+    "occasion": "For a night with no plans",
+    "mood": "Rose-toned · peaceful · unhurried",
+    "story": "Warm water, a book left open, and permission to take your time. A bath-soak concept imagined in rose tones and amber glass.",
+    "contents": [
+      [
+        "The object",
+        "A tall amber jar and pale cream cap."
+      ],
+      [
+        "The ritual idea",
+        "A rose-colored bath-time scene."
+      ],
+      [
+        "The gift pairing",
+        "Cloud Body Cream for a two-part care edit."
+      ]
+    ],
+    "pair": "cloud-body-cream",
+    "conceptCode": "MM-08",
+    "target": {
+      "size": "250 g bath soak direction",
+      "pack": "Tall amber jar with pale cap; moisture barrier and induction/liner options to compare.",
+      "note": "Confirm actual formula and net-weight fit; do not infer rose ingredients or suitability from the concept name."
+    },
+    "presentation": "A tall amber jar and pale cap frame the warm, textured bath-soak concept, with a small cream label for an understated finish."
+  },
+  {
+    "id": "golden-body-oil",
+    "name": "Golden Body Oil",
+    "category": "Body care",
+    "price": 38,
+    "color": "#b28a4b",
+    "type": "bottle",
+    "tag": "A glow of golden glass",
+    "description": "A body oil concept presented in amber glass. This is a design prototype, with no real formulation, safety assessment or product for sale.",
+    "asset": "golden-body-oil",
+    "occasion": "For a golden little moment",
+    "mood": "Amber glass · tactile · warm",
+    "story": "A drop of golden light for the everyday shelf. A body-oil packaging concept that makes a simple care ritual feel considered.",
+    "contents": [
+      [
+        "The object",
+        "Amber glass with a berry-colored dropper."
+      ],
+      [
+        "The ritual idea",
+        "A quiet care moment at the end of the day."
+      ],
+      [
+        "The gift pairing",
+        "Amber Hour for a warm-toned duet."
+      ]
+    ],
+    "pair": "amber-hour",
+    "conceptCode": "MM-09",
+    "target": {
+      "size": "100 mL body oil direction",
+      "pack": "Amber bottle with berry-toned dropper; evaluate pump as an alternate only after design review.",
+      "note": "Request oil/closure compatibility, leak testing and fill-volume confirmation. No efficacy or absorption claims are specified."
+    },
+    "presentation": "Golden tones, amber glass and a berry-colored closure give this body-oil concept a warm, considered silhouette."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "path": "/",
+    "violations": []
+  },
+  {
+    "path": "/shop",
+    "violations": []
+  },
+  {
+    "path": "/products/fixture-1",
+    "violations": []
+  },
+  {
+    "path": "/gifting",
+    "violations": []
+  },
+  {
+    "path": "/about",
+    "violations": []
+  },
+  {
+    "path": "/faq",
+    "violations": []
+  },
+  {
+    "path": "/policies/shipping",
+    "violations": []
+  },
+  {
+    "path": "/bag",
+    "violations": []
+  }
+]

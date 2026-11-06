@@ -1,0 +1,28 @@
+
+> morrow-muse-commercial@0.4.0 test:design
+> playwright test --config=playwright.design.config.ts
+
+[2m[WebServer] [22m(node:27644) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+[2m[WebServer] [22m(Use `node --trace-warnings ...` to show where the warning was created)
+
+Running 13 tests using 1 worker
+
+(node:27659) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:27659) Warning: The 'NO_COLOR' env is ignored due to the 'FORCE_COLOR' env being set.
+(Use `node --trace-warnings ...` to show where the warning was created)
+  ✓   1 tests/design.spec.ts:32:7 › desktop: restored design and complete preview flow (10.9s)
+  ✓   2 tests/design.spec.ts:32:7 › mobile: restored design and complete preview flow (9.4s)
+  ✓   3 tests/design.spec.ts:32:7 › tablet: restored design and complete preview flow (8.9s)
+  ✓   4 tests/design.spec.ts:166:5 › preview filters, invalid routes, damaged storage and server-side checkout prohibition (1.2s)
+  ✓   5 tests/design.spec.ts:217:5 › blocked browser storage keeps in-page preview usable with an honest warning (920ms)
+  ✓   6 tests/design.spec.ts:240:7 › desktop: gift finder, complete content pages and concept boundaries (5.9s)
+  ✓   7 tests/design.spec.ts:240:7 › mobile: gift finder, complete content pages and concept boundaries (4.9s)
+  ✓   8 tests/design.spec.ts:240:7 › tablet: gift finder, complete content pages and concept boundaries (5.1s)
+  ✓   9 tests/design.spec.ts:300:5 › every concept has a direct, refreshable page and working local images (3.5s)
+  ✓  10 tests/gift-polish.spec.ts:10:7 › desktop: three gift stories, imagery and keyboard gallery (5.5s)
+  ✓  11 tests/gift-polish.spec.ts:10:7 › tablet: three gift stories, imagery and keyboard gallery (4.4s)
+  ✓  12 tests/gift-polish.spec.ts:10:7 › mobile: three gift stories, imagery and keyboard gallery (4.4s)
+  ✓  13 tests/gift-polish.spec.ts:85:5 › mobile purchase visibility, bag count, menu focus, 320px and reduced motion (2.2s)
+
+  13 passed (1.2m)

@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/faq",
+    "violations": []
+  },
+  {
+    "path": "/policies/shipping",
+    "violations": []
+  },
+  {
+    "path": "/policies/returns",
+    "violations": []
+  },
+  {
+    "path": "/policies/privacy",
+    "violations": []
+  },
+  {
+    "path": "/policies/terms",
+    "violations": []
+  }
+]

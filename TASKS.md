@@ -1,0 +1,11 @@
+# V5 task status
+- [x] Verify isolated cloud workspace and existing baseline
+- [x] Attempt public access check; record environment blocker honestly
+- [x] Inspect baseline screenshots and three concept originals
+- [x] Add three reference-guided AI images and gift-set detail chapters
+- [x] Improve mobile CTA, gallery, dialog focus and preview bag feedback
+- [x] Derive static showcase from shared primary source
+- [x] Final build, browser suites and source/runtime package verification
+- [ ] Upload V5 to existing Cloudflare project (no account connection in this task)
+- [ ] Public-domain and mainland network acceptance
+- [ ] Real merchant/product/payment/fulfillment integration (deferred)

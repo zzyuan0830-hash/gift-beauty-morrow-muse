@@ -1,0 +1,6 @@
+
+> morrow-muse-commercial@0.4.0 format:check
+> prettier --check "{app,components,lib,tests,scripts}/**/*.{ts,tsx,mjs}" next.config.ts playwright.config.ts
+
+Checking formatting...
+All matched files use Prettier code style!

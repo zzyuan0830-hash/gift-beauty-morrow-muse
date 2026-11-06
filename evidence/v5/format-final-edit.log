@@ -1,0 +1,4 @@
+components/Header.tsx 67ms (unchanged)
+components/Gallery.tsx 19ms (unchanged)
+lib/dialog-focus.ts 5ms
+tests/gift-polish.spec.ts 24ms

@@ -1,0 +1,26 @@
+components/Bag.tsx 75ms (unchanged)
+components/ConceptDetails.tsx 9ms (unchanged)
+components/Gallery.tsx 15ms
+components/GiftSetStory.tsx 8ms
+components/Header.tsx 11ms
+components/MobilePurchase.tsx 5ms
+components/ProductCard.tsx 5ms (unchanged)
+components/Purchase.tsx 10ms
+components/Unavailable.tsx 2ms (unchanged)
+components/Wordmark.tsx 2ms (unchanged)
+lib/browser-bag.ts 4ms (unchanged)
+lib/cart.ts 11ms (unchanged)
+lib/config.ts 8ms (unchanged)
+lib/content.ts 2ms (unchanged)
+lib/design-bag.ts 18ms (unchanged)
+lib/design-catalog.ts 6ms
+lib/gift-stories.ts 3ms
+lib/gifting.ts 3ms (unchanged)
+lib/preview-policies.ts 3ms (unchanged)
+lib/queries.ts 2ms (unchanged)
+lib/rules.ts 9ms (unchanged)
+lib/shopify.ts 7ms (unchanged)
+lib/storefront.ts 2ms (unchanged)
+lib/types.ts 4ms (unchanged)
+app/products/[handle]/page.tsx 17ms (unchanged)
+app/layout.tsx 5ms (unchanged)

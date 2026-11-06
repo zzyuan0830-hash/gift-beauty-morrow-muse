@@ -1,0 +1,42 @@
+{
+  "name": "morrow-muse-commercial",
+  "version": "0.4.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0",
+    "build": "next build --webpack && node scripts/prepare-standalone.mjs",
+    "start": "node .next/standalone/server.js",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "test:e2e": "playwright test",
+    "check:launch": "node --env-file-if-exists=.env.local --import tsx scripts/check-launch.ts",
+    "format:check": "prettier --check \"{app,components,lib,tests,scripts}/**/*.{ts,tsx,mjs}\" next.config.ts playwright.config.ts",
+    "preview:design": "node scripts/preview-design.mjs",
+    "test:design": "playwright test --config=playwright.design.config.ts",
+    "dev:design": "STORE_MODE=design next dev --hostname 127.0.0.1",
+    "build:showcase": "python3 scripts/build-showcase.py",
+    "test:showcase": "SHOWCASE_TEST=1 playwright test --config=playwright.showcase.config.ts"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "sanitize-html": "2.18.1",
+    "server-only": "0.0.1"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.10.2",
+    "@playwright/test": "1.56.1",
+    "@types/node": "24.19.2",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "@types/sanitize-html": "2.16.2",
+    "playwright-core": "1.56.1",
+    "prettier": "3.6.2",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=22.9.0"
+  }
+}

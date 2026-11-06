@@ -1,0 +1,55 @@
+
+> morrow-muse-commercial@0.4.0 build:showcase
+> python3 scripts/build-showcase.py
+
+▲ Next.js 16.4.5 (webpack)
+⚠ Warning: Next.js inferred your workspace root, but it may not be correct.
+ We detected multiple lockfiles and selected the directory of /workspace/gift-beauty-studio-commercial/package-lock.json as the root directory.
+ To silence this warning, set `outputFileTracingRoot` in your Next.js config, or consider removing one of the lockfiles if it's not needed.
+   See https://nextjs.org/docs/app/api-reference/config/next-config-js/output#caveats for more information.
+ Detected additional lockfiles: 
+   * /workspace/gift-beauty-studio-commercial/.release-work/showcase/package-lock.json
+
+✓ Running next.config.ts took 21ms
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 4.6s
+  Running TypeScript ...
+  Finished TypeScript in 1820ms ...
+  Collecting page data using 4 workers ...
+  Generating static pages using 4 workers (0/25) ...
+  Generating static pages using 4 workers (6/25) 
+  Generating static pages using 4 workers (12/25) 
+  Generating static pages using 4 workers (18/25) 
+✓ Generating static pages using 4 workers (25/25) in 600ms
+  Finalizing page optimization ...
+  Collecting build traces ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ○ /about
+├ ○ /bag
+├ ○ /build-a-gift
+├ ○ /faq
+├ ○ /gifting
+├ ○ /icon.svg
+├   /policies/[kind]
+│ ├ ● /policies/shipping
+│ ├ ● /policies/returns
+│ ├ ● /policies/privacy
+│ └ ● /policies/terms
+├   /products/[handle]
+│ ├ ● /products/the-slow-sunday
+│ ├ ● /products/the-little-thank-you
+│ ├ ● /products/the-evening-edit
+│ └ ● [+6 more paths]
+├ ○ /robots.txt
+├ ○ /shop
+└ ○ /sitemap.xml
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+
+/workspace/gift-beauty-studio-commercial/delivery/v5/morrow-muse-v5-cloudflare.zip

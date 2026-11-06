@@ -1,0 +1,14 @@
+{
+  "merchantVerified": false,
+  "paymentTested": false,
+  "shippingVerified": false,
+  "returnsVerified": false,
+  "taxTreatmentVerified": false,
+  "policiesApproved": false,
+  "notificationsTested": false,
+  "fulfillmentTested": false,
+  "refundTested": false,
+  "businessName": "",
+  "supportEmail": "",
+  "publicOrigin": ""
+}

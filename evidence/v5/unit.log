@@ -1,0 +1,32 @@
+
+> morrow-muse-commercial@0.4.0 test
+> tsx --test tests/*.test.ts
+
+✔ only verified complete products enter catalog (1.957008ms)
+✔ reject duplicate photos, unsafe image hosts, missing SKU, non-USD and partial variants (0.445143ms)
+✔ filter search, categories, bounds, order and empty results (0.828382ms)
+✔ quantity is strictly bounded integer input (0.280494ms)
+✔ cart cookie encrypted, tamper-resistant, shop bound and gracefully rejects corruption (1.333955ms)
+✔ cart digest captures repricing and quantity changes; hides secret and checkout URL (0.539815ms)
+✔ cart blocks unapproved, mixed-currency and truncated data (0.358492ms)
+✔ HTML sanitization and JSON-LD escaping cannot execute input (2.450733ms)
+✔ configuration is fail-closed; production cannot use local fixture endpoint (0.464041ms)
+✔ checkout URLs restricted to exact verified host and HTTPS (0.431141ms)
+✔ reject prototype category, unverified extra image and unknown inventory (0.243478ms)
+✔ all nine concepts fail real product eligibility and use separate identifiers (2.585798ms)
+✔ design bag totals, reload, quantity limits and removal (2.841815ms)
+✔ corrupt or malicious saved bag safely resets with a visible explanation (0.260513ms)
+✔ denied browser storage preserves in-page preview without pretending persistence (0.23783ms)
+✔ preview checkout never yields an order or URL; submitted prices and notes ignored (0.204109ms)
+✔ design mode renders pages but cannot activate Shopify settings or checkout (0.553616ms)
+✔ header quantity read does not consume corrupt-storage recovery warning (0.21157ms)
+✔ gift finder budget bounds, preference and price order (5.20119ms)
+✔ gift finder rejects unknown or repeated query values without inventing a catalog (0.17902ms)
+ℹ tests 20
+ℹ suites 0
+ℹ pass 20
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 443.320726

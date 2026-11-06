@@ -1,0 +1,4 @@
+components/Gallery.tsx 67ms (unchanged)
+tests/design.spec.ts 57ms
+playwright.design.config.ts 4ms (unchanged)
+playwright.showcase.config.ts 2ms
