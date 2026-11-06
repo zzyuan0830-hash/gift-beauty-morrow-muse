@@ -9,3 +9,14 @@ delivery/
 .release-work/
 .delivery-checks/
 test-results-*/
+
+# Keep large acceptance archives and generated assets outside source control.
+*.bundle
+*.tar.gz
+*.zip
+!releases/v5/morrow-muse-v5-cloudflare.zip
+*.tsbuildinfo
+__pycache__/
+evidence/**/*.png
+evidence/**/*.webm
+.DS_Store

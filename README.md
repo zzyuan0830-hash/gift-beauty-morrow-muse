@@ -1,3 +1,12 @@
+# 礼品美妆商城 · Morrow & Muse
+
+独立英文礼赠网站｜礼盒、香氛、身体护理｜V5 稳定基线。
+先阅读 [仓库与版本说明](REPOSITORY.md)。本仓库准备自已核验 V5 源码，原上传包见 [releases/v5](releases/v5/README.md)。
+
+**状态补充：**用户已在 Cloudflare 更新 V5，独立验收聊天报告线上功能通过并完成归档；以下原开发说明中“尚未上传”和“线上未验证”属于开发交付时的历史状态。真机蜂窝检查与真实支付仍未验证。
+
+---
+
 # Morrow & Muse — V5
 
 English beauty and gifting concept storefront, Next.js + TypeScript. Three gift-set stories, nine concepts, searchable catalog, gifting guide, persistent preview bag and responsive layouts. Images and prices are illustrative; no orders or payments are created in design mode.
