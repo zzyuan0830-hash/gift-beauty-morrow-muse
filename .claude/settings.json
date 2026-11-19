@@ -1,0 +1,18 @@
+{
+  "enabledPlugins": {
+    "cowork-plugin-management@synced": false,
+    "enterprise-search@synced": false,
+    "fastly-agent-toolkit@synced": false,
+    "finance@synced": false,
+    "hostinger@synced": false,
+    "operations@synced": false,
+    "planetscale@synced": false,
+    "prisma@synced": false,
+    "product-management@synced": false,
+    "productivity@synced": false,
+    "remotion@synced": false,
+    "sales@synced": false,
+    "vanta@synced": false,
+    "wix@synced": false
+  }
+}
