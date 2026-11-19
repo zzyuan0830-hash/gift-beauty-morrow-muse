@@ -14,5 +14,15 @@
     "sales@synced": false,
     "vanta@synced": false,
     "wix@synced": false
+  },
+  "permissions": {
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.local)",
+      "Read(./.env.production)",
+      "Read(./.env.development)",
+      "Bash(gh pr merge *)",
+      "Bash(gh api *pulls/*/merge*)"
+    ]
   }
 }
